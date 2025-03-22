@@ -1,0 +1,4 @@
+body { font-family: 'Courier', monospace; background: #e6f7ff; color: #000; }
+header { background: #1e90ff; color: #fff; padding: 1.5rem; }
+.project img { border: 2px dashed #1e90ff; }
+footer { background: #1e90ff; color: #fff; padding: 1rem; }
